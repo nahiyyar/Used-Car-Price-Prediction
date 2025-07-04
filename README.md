@@ -5,7 +5,7 @@ A machine learning-powered web app that predicts the selling price of a used car
 
 ---
 
-## 📊 Overview
+**📊 Overview**
 
 This app predicts the price of a used car based on:
 - Brand
