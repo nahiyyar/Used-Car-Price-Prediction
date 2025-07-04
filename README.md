@@ -43,18 +43,27 @@ The backend is powered by a trained **XGBoost Regressor** model stored in `model
 
 
 # 1. Clone the repository
+```bash
 git clone 
 cd used-car-price-predictor
-
+```
 # 2. (Optional) Create and activate a virtual environment
+```bash
 python -m venv env
+```
 # On Windows:
+```bash
 env\Scripts\activate
+```
 # On macOS/Linux:
+```bash
 source env/bin/activate
-
+```
 # 3. Install all dependencies
+```bash
 pip install -r requirements.txt
-
+```
 # 4. Run the Streamlit app
+```bash
 streamlit run app.py
+```
