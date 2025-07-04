@@ -5,7 +5,7 @@ A machine learning-powered web app that predicts the selling price of a used car
 
 ---
 
-**📊 Overview**
+##📊 Overview
 
 This app predicts the price of a used car based on:
 - Brand
@@ -51,11 +51,11 @@ cd used-car-price-predictor
 ```bash
 python -m venv env
 ```
-# On Windows:
+** On Windows:
 ```bash
 env\Scripts\activate
 ```
-# On macOS/Linux:
+** On macOS/Linux:
 ```bash
 source env/bin/activate
 ```
