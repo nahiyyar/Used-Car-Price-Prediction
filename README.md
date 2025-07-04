@@ -51,11 +51,11 @@ cd used-car-price-predictor
 ```bash
 python -m venv env
 ```
-** On Windows:**
+**On Windows:**
 ```bash
 env\Scripts\activate
 ```
-** On macOS/Linux:**
+**On macOS/Linux:**
 ```bash
 source env/bin/activate
 ```
